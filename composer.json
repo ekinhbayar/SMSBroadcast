@@ -1,0 +1,24 @@
+{
+  "name": "ekinhbayar/SMSBroadcast",
+  "description": "SMS Broadcast gateway API implementation in PHP.",
+  "keywords": [
+    "sms",
+    "smsbroadcast",
+    "php"
+  ],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Ekin H. Bayar",
+      "email": "ekin@coproductivity.com",
+      "role": "Developer"
+    }
+  ],
+  "minimum-stability": "dev",
+  "prefer-stable": true,
+  "autoload": {
+    "psr-4": {
+      "ekinhbayar\\SMSBroadcast\\": "src/"
+    }
+  }
+}
